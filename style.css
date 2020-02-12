@@ -13,6 +13,9 @@ body {
     line-height: 1.6;
 }
 
+button{outline: none;
+cursor: pointer;}
+
 h1,
 h2,
 h3,
